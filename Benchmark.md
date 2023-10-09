@@ -32,9 +32,8 @@ _ des statistiques sont générées à partir des informations de la base de don
 
 ### Critères de performance
 
-_ La partie : interractions avec la base de donnée n'est utile que pour les statistiques de la page d'accueil.
+_ La partie : interractions avec la base de donnée est utile pour les statistiques de la page d'accueil. Elle sert aussi à générer une liste de 10 questions aléatoires pour chaque QCM. Les questions sont enregistrées en base de donnée.
 
---> Discussion en cours : faut-il enregistrer les informations d'inscription en base de donnée ou juste le nombre de CV générés ?
-Faut-il enregistrer les messages postés en base de donnée ou juste le nombre de messages ?
+--> Discussion en cours : Faut-il enregistrer les messages postés en base de donnée ou juste le nombre de messages ?
 
 
