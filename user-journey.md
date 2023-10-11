@@ -32,18 +32,36 @@ Un user journey pourra être complété par une description écrites des étapes
 journey
     title Application QCM_ORIENTATION
     section Accueil
-      Choix repondre a un questionnaire: 5: Me
-      Choix aller au forum de discussion: 3: Me
-      Choix se renseigner sur les entreprises: 1: Me, Cat
-    section QCM
-      Formulaire d'inscription: 5: Me
-      Choix du QCM: 3: Me
-      Répondre au QCM: 1: Me, Cat
-      Télécharger CV de compétences: 1: Me, Cat
-    section Forum de discussion
-      Poster un message: 5: Me
-    section Liste d'entreprises
-      Lire descriptif: 5: Me
-      click sur le lien vers le site web: 5: Me
+      Choix se connecter: 5: Me
+      Choix Télécharger un CV: 3: Me
+      Choix Liste d'entreprise: 1: Me, Cat
+      Choix Répondre à un QCM: 1: Me, Cat
+    section Connexion
+      Ajout d'un nouvel utilisateur: 5: Me
+      Valider l'inscription: 1: Me, Cat
+      Se connecter à partir d'un email et d'un mot de passe: 3: Me
+    
 ```
+```mermaid
+journey
+    title Application QCM_ORIENTATION
+    section QCM
+      Affichage de la coupe obtenue pour chacun des QCM: 5: Me
+      Choix du QCM: 5: Me
+      Affichage qui dit si l'utilisateur est connecté: 5: Me
+      Validation des réponses: 5: Me
+      Demande d'inscription: 5: Me
+      Envoi du CV par mail: 5: Me
+    section Liste d'entreprises
+      Affichage des logos: 5: Me
+      click sur le lien vers le site web: 5: Me
 
+```
+```mermaid
+journey
+    title Application QCM_ORIENTATION
+    section Téléchargement du CV
+      Affichage de la coupe obtenue pour chacun des CV: 5: Me
+      click sur le CV à télécharger: 5: Me
+
+```
