@@ -1,5 +1,5 @@
 # Questionnaires
-
+Répartir pour qu'il n'y ait pas que des réponses A)
 ## QCM d'informatique
 
 Question 1: Qu'est-ce que le HTML ?
@@ -89,7 +89,7 @@ b) Élastique
 c) Accélération
 d) Force gravitationnelle
 
-Question 3: Quelle est la formule de la loi d'Ohm qui régit la relation entre la tension, le courant et la résistance électrique ?
+A supprimer Question 3: Quelle est la formule de la loi d'Ohm qui régit la relation entre la tension, le courant et la résistance électrique ?
 a) V = I/R
 b) I = V/R
 c) R = V/I
