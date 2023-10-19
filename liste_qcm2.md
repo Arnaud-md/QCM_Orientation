@@ -170,7 +170,7 @@ B) La loi de Charles
 C) La loi de Dalton
 D) La loi des gaz parfaits
 
-5. Quel est le vecteur vitesse d'un objet en mouvement circulaire uniforme ?
+5. A supprimer Quel est le vecteur vitesse d'un objet en mouvement circulaire uniforme ?
 A) Constant en direction mais variable en magnitude
 B) Constant en magnitude mais variable en direction
 C) Constant en direction et magnitude
@@ -188,20 +188,20 @@ B) Quantité de mouvement
 C) Moment cinétique
 D) Impulsion
 
-8. Comment appelle-t-on le point autour duquel la somme des moments est nulle pour un système en équilibre ?
+8. A supprimer Comment appelle-t-on le point autour duquel la somme des moments est nulle pour un système en équilibre ?
 A) Centre de masse
 B) Centre de rotation
 C) Centre d'inertie
 D) Centre de gravité
 
 
-9. Qu'est-ce que la force normale sur un objet placé sur une surface horizontale ?
+9. A supprimer Qu'est-ce que la force normale sur un objet placé sur une surface horizontale ?
 A) La force de réaction du poids de l'objet
 B) La force exercée par la surface pour supporter le poids de l'objet
 C) La force exercée par l'objet sur la surface
 D) La force exercée par la surface sur l'objet
 
-10. Quel est le travail effectué par la force gravitationnelle lorsque vous portez un objet verticalement sans le déplacer horizontalement ?
+10.A supprimer Quel est le travail effectué par la force gravitationnelle lorsque vous portez un objet verticalement sans le déplacer horizontalement ?
 A) Aucun travail n'est effectué
 B) Le travail est positif
 C) Le travail est négatif
@@ -223,12 +223,12 @@ D) Centre d'inertie
 2. C) Newton
 3. D) L'énergie ne peut pas être créée ni détruite, seulement transformée.
 4. D) La loi des gaz parfaits
-5. C) Constant en direction et magnitude
+5. X C) Constant en direction et magnitude
 6. B) La deuxième loi de Newton
 7. A) Énergie mécanique
-8. D) Centre de gravité
-9. B) La force exercée par la surface pour supporter le poids de l'objet
-10. A) Aucun travail n'est effectué
+8. X D) Centre de gravité
+9. X B) La force exercée par la surface pour supporter le poids de l'objet
+10. X A) Aucun travail n'est effectué
 11. A) Inertie
 12. A) Centre de gravité
 

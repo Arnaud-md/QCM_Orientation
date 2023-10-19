@@ -113,7 +113,7 @@ b) Une grandeur ayant seulement une magnitude
 c) Une grandeur n'ayant pas de direction
 d) Une grandeur négative
 
-Question 7: Quelle est la formule de base pour le calcul de la puissance mécanique ?
+A supprimer Question 7: Quelle est la formule de base pour le calcul de la puissance mécanique ?
 a) P = F × d
 b) P = W/t
 c) P = F × v
@@ -141,11 +141,11 @@ Réponses:
 
 a) L'énergie ne peut ni être créée ni détruite, seulement transformée.
 a) Inertie
-a) V = I/R
+a) X V = I/R
 a) La loi de Newton
 c) Moment cinétique
 a) Une grandeur ayant une magnitude et une direction
-c) P = F × v
+c) X P = F × v
 a) La première loi de la thermodynamique
 b) La tendance d'un matériau à se déformer sous une contrainte
 a) La loi de l'inertie
