@@ -232,6 +232,41 @@ D) Centre d'inertie
 11. A) Inertie
 12. A) Centre de gravité
 
+Question 1: Quelle est la formule de la deuxième loi de Newton ?
+
+A) F = ma
+B) E = mc²
+C) P = mgh
+D) F = GMm/r²
+
+Question 3: Qu'est-ce que le moment d'inertie d'un objet ?
+
+A) La force nécessaire pour déplacer un objet
+B) La résistance d'un objet à changer son état de mouvement
+C) La mesure de la distribution de la masse par rapport à un axe de rotation
+D) La quantité de mouvement d'un objet
+
+Question 4: Quelle est l'unité de mesure de la puissance ?
+
+A) Watt (W)
+B) Joule (J)
+C) Newton (N)
+D) Volt (V)
+
+Question 5: Selon la troisième loi de Newton, comment se rapportent les actions et réactions entre deux objets en interaction ?
+
+A) Elles ont des magnitudes différentes mais des directions opposées.
+B) Elles ont des magnitudes et des directions opposées.
+C) Elles ont des magnitudes et des directions identiques.
+D) Elles ont des magnitudes différentes et des directions identiques.
+
+Réponses :
+
+1. A) F = ma
+3. C) La mesure de la distribution de la masse par rapport à un axe de rotation
+4. A) Watt (W)
+5. C) Elles ont des magnitudes et des directions identiques.
+
 ## Mécanique des fluides
 
 1. Qu'est-ce que la viscosité d'un fluide mesure ?
@@ -288,7 +323,7 @@ B) Le principe de Pascal
 C) Le principe de continuité
 D) Le principe de Bernoulli
 
-10. Quelle est l'unité de mesure de la viscosité dynamique dans le système international ?
+10. // A Supprimer Quelle est l'unité de mesure de la viscosité dynamique dans le système international ?
 A) Pascal par seconde (Pa·s)
 B) Newton par mètre carré (N/m²)
 C) Poise (P)
@@ -303,15 +338,34 @@ D) Force de cisaillement
 
 1. A) Sa résistance à l'écoulement
 2. A) Pascal (Pa)
-3. B) Loi de Charles
+3. X B) Loi de Charles
 4. A) Le principe de Bernoulli
 5. X A) Point de stagnation
 6. A) Lorsque la vitesse augmente, la pression diminue
 7. A) Un fluide incompressible a une densité constante, tandis qu'un fluide compressible a une densité qui peut varier.
 8. A) Comme le rapport de la viscosité dynamique à la densité du fluide
 9. A) Le principe d'Archimède
-10. A) Pascal par seconde (Pa·s)
+10. X A) Pascal par seconde (Pa·s)
 11. A) Débit volumique
+
+Question 2: Quelle loi de base régit le comportement des fluides idéaux (non visqueux) ?
+
+A) Loi de Bernoulli
+B) Loi de Boyle-Mariotte
+C) Loi de Pascal
+D) Loi de Newton
+
+Question 3: Comment s'appelle la propriété d'un fluide de s'écouler sans frottement visqueux interne ?
+
+A) Viscosité
+B) Incompressibilité
+C) Écoulement laminaire
+D) Écoulement parfait
+
+Réponses :
+
+2. D) Loi de Newton
+3. D) Écoulement parfait
 
 ## Thermodynamique
 
@@ -387,6 +441,33 @@ D) Travail irréversible
 9. A) Énergie interne
 10. B) Travail utile
 
+Question 2: Quel processus thermodynamique se produit à pression constante ?
+
+A) Isobare
+B) Isotherme
+C) Isochore
+D) Isentropique
+
+Question 3: Quelle énonciation correspond le mieux à la deuxième loi de la thermodynamique ?
+
+A) "L'énergie totale de l'univers est constante."
+B) "Aucun processus ne peut être plus efficace qu'une machine thermique réversible qui fonctionne entre deux réservoirs thermiques à températures constantes."
+C) "L'entropie d'un système isolé ne peut que diminuer."
+D) "Un gaz parfait obéit à la loi PV = nRT."
+
+Question 4: Quel processus thermodynamique se produit sans échange de chaleur avec l'environnement ?
+
+A) Adiabatique
+B) Isobare
+C) Isotherme
+D) Isentropique
+
+Réponses :
+
+2. A) Isobare
+3. B) "Aucun processus ne peut être plus efficace qu'une machine thermique réversible qui fonctionne entre deux réservoirs thermiques à températures constantes."
+4. A) Adiabatique
+
 ## Physique des plasmas
 
 1. // A SUPPRIMER Qu'est-ce qu'un plasma ?
@@ -456,7 +537,7 @@ C) Rayonnement synchrotron
 D) Résonance plasma
 
 
-1. A) Un gaz ionisé
+1. X A) Un gaz ionisé
 2. A) Plasme
 3. B) La conductivité électrique
 4. B) Des millions de degrés Celsius

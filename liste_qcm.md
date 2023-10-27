@@ -439,13 +439,13 @@ d) Un capteur qui détecte les champs magnétiques
 
 Réponses:
 
-c) Un matériau dont la conductivité se situe entre celle d'un conducteur et d'un isolant
-b) Condensateur
-b) Augmenter l'amplitude d'un signal électrique
-c) Un circuit intégré qui combine un processeur, de la mémoire et des périphériques d'entrée/sortie
-c) Un composant électronique qui utilise à la fois des électrons et des trous
-b) Fournir une tension constante en dépit des variations de l'alimentation
-a) Un composant électronique composé de plusieurs éléments interconnectés sur un substrat
-b) Visualiser et analyser les signaux électriques dans le domaine temporel
-a) Convertir l'énergie électrique en lumière
-b) Un capteur qui détecte la chaleur émise sous forme d'infrarouges
+1. c) Un matériau dont la conductivité se situe entre celle d'un conducteur et d'un isolant
+2. b) Condensateur
+3. b) Augmenter l'amplitude d'un signal électrique
+4. c) Un circuit intégré qui combine un processeur, de la mémoire et des périphériques d'entrée/sortie
+5. c) Un composant électronique qui utilise à la fois des électrons et des trous
+6. b) Fournir une tension constante en dépit des variations de l'alimentation
+7. a) Un composant électronique composé de plusieurs éléments interconnectés sur un substrat
+8. b) Visualiser et analyser les signaux électriques dans le domaine temporel
+9. a) Convertir l'énergie électrique en lumière
+10. b) Un capteur qui détecte la chaleur émise sous forme d'infrarouges
