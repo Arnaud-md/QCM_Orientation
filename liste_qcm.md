@@ -245,7 +245,7 @@ b) Un cycle dans lequel il n'y a pas de transfert de chaleur.
 c) Un cycle qui se produit uniquement dans les gaz nobles.
 d) Un cycle utilisé pour la production d'électricité nucléaire.
 
-Question 4: Quelle est la relation entre la pression, le volume et la température d'un gaz idéal selon la loi de Boyle-Mariotte (ou loi de Boyle) ?
+Question 4://A supprimer Quelle est la relation entre la pression, le volume et la température d'un gaz idéal selon la loi de Boyle-Mariotte (ou loi de Boyle) ?
 a) P1V1 = P2V2
 b) P1V1/T1 = P2V2/T2
 c) P1/T1 = P2/T2
@@ -263,7 +263,7 @@ b) 1 - (T2/T1)
 c) T1/T2
 d) T2/T1
 
-Question 7: Quelle équation représente la relation entre l'énergie interne d'un système, la chaleur échangée et le travail effectué sur le système ?
+Question 7://A supprimer Quelle équation représente la relation entre l'énergie interne d'un système, la chaleur échangée et le travail effectué sur le système ?
 a) ΔU = Q - W
 b) ΔU = Q + W
 c) ΔU = Q × W
@@ -281,7 +281,7 @@ b) La chaleur nécessaire pour changer l'état d'une substance sans changer sa t
 c) La chaleur nécessaire pour faire bouillir de l'eau.
 d) La chaleur nécessaire pour solidifier une substance.
 
-Question 10: Quel principe de la thermodynamique énonce que la pression d'un gaz diminuera si son volume augmente et que la température reste constante ?
+Question 10: // A supprimer Quel principe de la thermodynamique énonce que la pression d'un gaz diminuera si son volume augmente et que la température reste constante ?
 a) La loi de Boyle-Mariotte
 b) La loi de Charles
 c) La loi de Gay-Lussac
@@ -292,13 +292,13 @@ Réponses:
 b) L'énergie ne peut ni être créée ni détruite, seulement transformée.
 a) La mesure du désordre ou de la dispersion d'énergie dans un système.
 a) Le cycle thermodynamique réversible le plus efficace théoriquement possible.
-a) P1V1 = P2V2
+a)X P1V1 = P2V2
 b) La loi de Kelvin-Planck
 a) 1 - (T1/T2)
-a) ΔU = Q - W
+a)X ΔU = Q - W
 a) -273,15°C
 b) La chaleur nécessaire pour changer l'état d'une substance sans changer sa température.
-a) La loi de Boyle-Mariotte
+a)X La loi de Boyle-Mariotte
 
 ## QCM de physique des plasmas
 

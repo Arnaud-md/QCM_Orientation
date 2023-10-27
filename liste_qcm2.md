@@ -258,7 +258,7 @@ B) Le principe de Pascal
 C) Le principe d'Archimède
 D) Le principe de continuité
 
-5. Comment s'appelle le point où la pression d'un fluide diminue et sa vitesse augmente en passant à travers un rétrécissement ?
+5. A supprimer Comment s'appelle le point où la pression d'un fluide diminue et sa vitesse augmente en passant à travers un rétrécissement ?
 A) Point de stagnation
 B) Point de séparation
 C) Point d'étranglement
@@ -305,7 +305,7 @@ D) Force de cisaillement
 2. A) Pascal (Pa)
 3. B) Loi de Charles
 4. A) Le principe de Bernoulli
-5. A) Point de stagnation
+5. X A) Point de stagnation
 6. A) Lorsque la vitesse augmente, la pression diminue
 7. A) Un fluide incompressible a une densité constante, tandis qu'un fluide compressible a une densité qui peut varier.
 8. A) Comme le rapport de la viscosité dynamique à la densité du fluide
